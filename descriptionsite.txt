@@ -1,0 +1,198 @@
+make a HTML page with data based on the following messages
+
+Description of the output HTML:
+
+Structure Dashboard Analyse d'Appels d'Offres
+1. En-tête & Synthèse rapide
+
+Objectif: Donner une vision instantanée de l'appel d'offres
+Contenu:
+
+Titre et référence de l'AO
+Date limite de réponse
+Statut global (en cours, à valider, critique...)
+Résumé en 3-4 points clés
+
+2. Informations Essentielles
+
+Objectif: Présenter les éléments fondamentaux du marché
+Contenu:
+
+Type de marché
+Durée et reconductions possibles
+Périmètre géographique
+Budget (min/max si applicable)
+Client et contacts clés
+Modalités de réponse principales
+
+
+
+3. Timeline & Jalons
+
+Objectif: Visualiser la chronologie et les échéances
+Contenu:
+
+Dates clés avec étiquettes
+Phases principales
+Deadlines intermédiaires
+Points de décision
+Alertes temporelles
+Périodes de questions/réponses
+
+
+
+4. Critères de Qualification
+
+Objectif: Évaluer rapidement l'éligibilité
+Contenu:
+
+Prérequis techniques
+Critères financiers
+Expériences requises
+Certifications nécessaires
+Seuils minimaux
+Indicateurs go/no-go
+
+
+
+5. Structure Financière
+
+Objectif: Comprendre les aspects financiers
+Contenu:
+
+Modèle de prix
+Structure de coûts
+Modalités de paiement
+Système de pénalités
+Révisions de prix
+Garanties requises
+
+
+
+6. Analyse des Risques
+
+Objectif: Identifier et évaluer les risques
+Contenu:
+
+Points critiques
+Zones de vigilance
+Probabilité/Impact
+Plans de mitigation
+Signaux d'alerte
+Points bloquants potentiels
+
+
+
+7. Exigences Techniques
+
+Objectif: Synthétiser les besoins techniques
+Contenu:
+
+Spécifications clés
+Niveaux de service attendus
+Compétences requises
+Moyens techniques
+Normes à respecter
+Points d'innovation
+
+
+
+8. Livrables & Documents
+
+Objectif: Gérer les documents et livrables
+Contenu:
+
+Liste des documents requis
+Statut de chaque document
+Templates à utiliser
+Format des livrables
+Circuit de validation
+Planning de remise
+
+
+
+9. Critères d'Évaluation
+
+Objectif: Comprendre la notation
+Contenu:
+
+Critères de sélection
+Pondérations
+Sous-critères
+Grille de notation
+Points bonus/malus
+Éléments différenciants
+
+
+
+10. Gouvernance & Organisation
+
+Objectif: Définir le cadre de travail
+Contenu:
+
+Structure de pilotage
+Équipe requise
+Rôles et responsabilités
+Processus de reporting
+Modalités de communication
+Points de contrôle
+
+
+
+Points d'Attention pour le Développement
+
+Accessibilité:
+
+Interface intuitive
+Navigation claire
+Hiérarchie visuelle
+Responsive design
+
+
+Personnalisation:
+
+Filtres configurables
+Vues personnalisées
+Système d'alertes paramétrable
+Export de données
+
+
+Données:
+
+Mise à jour en temps réel
+Historisation des changements
+Validation des saisies
+Traçabilité des modifications
+
+
+Collaboration:
+
+Partage d'informations
+Annotations possibles
+Workflows de validation
+Notifications d'équipe
+
+
+
+Chaque section doit être :
+
+Visuellement distincte
+Facilement accessible
+Actualisable simplement
+Exportable au besoin
+Liée aux autres sections pertinentes
+
+
+Output of the prompt:
+It must no use any library, just pure css
+
+Without react, just HTML, a static page
+
+JUST HTML
+
+NO backquote
+NO resume or anything
+
+Start with <!doctype html>
+
+The HTML page must be at least 1000 characters with at least 6 sections based on the data following
